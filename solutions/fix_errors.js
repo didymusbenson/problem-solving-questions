@@ -1,5 +1,5 @@
 var container = document.querySelector('.container');
-var squares = ["blue", "red", "orange", "green"]
+var squares = ["blue", "red", "orange", "green"];
 
 for (var i = 0; i < squares.length; i++){
     var new_square = document.createElement("div");
